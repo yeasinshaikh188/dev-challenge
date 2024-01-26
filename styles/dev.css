@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-container{
+    margin: 0 100px;
+    border: 1px solid salmon;
+}
+.text-container{
+    width: 300px;
+    line-height: 30px;
+    margin-bottom: 60px;
+
+}
+.photo{
+    width: 60px;
+}
+.tick{
+    width: 30px;
+}
+.img-and-text{
+    display: flex;
+}
+/* secend section styles */
